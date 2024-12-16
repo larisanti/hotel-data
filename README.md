@@ -29,7 +29,7 @@ This project guides you through the process of analyzing hotel reservations data
    - Verified the protection by testing the ability to modify data in protected cells.
    - Hidden the bookings sheet to tidy up the file for presentation.
 
-## Technologies Used
+## Built With
 - Microsoft Excel
 
 ## How to Use
