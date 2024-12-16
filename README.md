@@ -35,7 +35,6 @@ This project guides you through the process of analyzing hotel reservations data
 ## How to Use
 1. Download the Excel file.
 2. Review the data analysis and formatted reports in the respective sheets.
-3. Experiment with the special request charge table to see how average revenue changes.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
