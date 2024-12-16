@@ -8,7 +8,7 @@ Analysis of hotel reservations data focusing on cancellation rates and revenue f
 This project guides you through the process of analyzing hotel reservations data in Excel. It covers various stages of data analysis, including importing raw data, cleaning and inspecting it, formatting numbers, performing calculations, and preparing the final results for presentation. The focus is on assessing cancellation rates and revenue from special charges while ensuring that the data is accurate and well-prepared.
 
 
-## Tasks Performed
+## What Was Done
 
 ### 1. **Import and Inspect Data**
    - Imported the bookings CSV file to a new sheet, ensuring that the delimiter was set correctly and data starts at cell A1.
