@@ -1,22 +1,42 @@
 # hotel-data
 Analysis of hotel reservations data focusing on cancellation rates and revenue from special charges.
 
+# Handling Hotel Data in Excel
+
 ## Project Overview
 
-### 1. **Data Analysis in Excel**
-   - Techniques for analyzing data sets using Excel.
-   - Methods of calculating cancellation rates and revenue from special charges.
+This project guides you through the process of analyzing hotel reservations data in Excel. It covers various stages of data analysis, including importing raw data, cleaning and inspecting it, formatting numbers, performing calculations, and preparing the final results for presentation. The focus is on assessing cancellation rates and revenue from special charges while ensuring that the data is accurate and well-prepared.
 
-### 2. **Data Cleaning and Inspection**
-   - Identifying missing, suspect, or incorrectly coded data.
-   - Handling and correcting data inconsistencies.
-   - Using Excel functions like `ISBLANK`, `IFERROR`, and `ISNUMBER` for data validation.
 
-### 3. **Data Formatting and Presentation**
-   - Organizing and structuring data for easier interpretation.
-   - Using Excel features such as pivot tables, conditional formatting, and charts to present data.
-   - Protecting data for presentation and sharing with others.
+## Tasks Performed
 
-### 4. **Data Analysis Workflow**
-   - Steps involved in starting and finishing a data analysis project.
-   - Loading raw data and transforming it into a usable format for analysis.
+### 1. **Import and Inspect Data**
+   - Imported the bookings CSV file to a new sheet, ensuring that the delimiter was set correctly and data starts at cell A1.
+   - Trimmed whitespace from the hotel, status, and day columns using the `=TRIM()` formula to ensure clean data.
+   - Applied the `=LEFT()` function to standardize hotel data.
+   - Checked for missing or suspicious data by filtering and sorting various columns, and noted findings in a summary table.
+   - Sorted arrival dates and number of special requests to identify any unusual values.
+
+### 2. **Format Numbers**
+   - Formatted a table showing the monthly percentage of total reservations by hotel type and reservation status as percentages without decimal points.
+   - Reformatted the dates in a table listing reservations with 5 special requests from number format to Short Date.
+   - Sorted the table for easier reading, allowing a clear view of changes over time.
+
+### 3. **Protect and Present Data**
+   - Created a revenue calculation table to evaluate the impact of different special request charge levels. Tested multiple average charges to calculate the resulting revenue.
+   - Added a note explaining the exclusion of 2020 from the average calculation.
+   - Protected the sheet to prevent accidental changes, while ensuring that certain cells (e.g., the charge input cell) remained editable.
+   - Verified the protection by testing the ability to modify data in protected cells.
+   - Hidden the bookings sheet to tidy up the file for presentation.
+
+## Technologies Used
+- Microsoft Excel
+
+## How to Use
+1. Download the Excel file.
+2. Review the data analysis and formatted reports in the respective sheets.
+3. Experiment with the special request charge table to see how average revenue changes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
