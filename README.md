@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes hotel reservations data to evaluate cancellation rates and revenue generated from special charges. The analysis emphasizes data accuracy and preparation, ensuring a clean dataset for meaningful insights. Various Microsoft Excel tools were employed for data cleaning, formatting, and presentation.
+This project focuses on analyzing hotel reservations data to assess cancellation rates and revenue generated from special charges. The analysis highlights meticulous data preparation and accuracy, ensuring a reliable dataset for extracting meaningful insights. Advanced Microsoft Excel techniques were employed for data cleaning, formatting, and presentation, demonstrating proficiency in transforming raw data into actionable results.
 
 ## Project Steps
 
@@ -27,7 +27,7 @@ This project analyzes hotel reservations data to evaluate cancellation rates and
 
 ## How to Use
 1. Download the Excel file from the repository.
-2. Open the file and explore the data and analyses.
+2. Open the file and explore the data.
 
 ## License
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
