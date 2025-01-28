@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing hotel reservations data to assess cancellation rates and revenue generated from special charges. The analysis highlights meticulous data preparation and accuracy, ensuring a reliable dataset for extracting meaningful insights. Advanced Microsoft Excel techniques were employed for data cleaning, formatting, and presentation, demonstrating proficiency in transforming raw data into actionable results.
+This project analyzes hotel reservation data to evaluate cancellation rates and revenue from special charges. It focuses on data cleaning, manipulation, and accuracy, ensuring reliable insights. Advanced Excel techniques were used for formatting and presentation, turning raw data into valuable results.
 
 ---
 
