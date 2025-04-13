@@ -32,6 +32,3 @@ This project analyzes hotel reservation data to evaluate cancellation rates and 
 ## How to Use
 1. Download the Excel file from the repository.
 2. Open the file and explore the data.
-
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
